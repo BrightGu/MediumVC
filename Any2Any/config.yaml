@@ -1,0 +1,45 @@
+
+################# pretrained model ###########################
+hifi_model_path: "hifivoice/pretrained/UNIVERSAL_V1/g_02500000"
+hifi_config_path: "hifivoice/pretrained/UNIVERSAL_V1/config.json"
+
+wav2mel_model_path: "Any2Any/model/dvector/pre_model/wav2mel.pt"
+dvector_model_path: "Any2Any/model/dvector/pre_model/dvector-step250000.pt"
+
+pre_train_singlevc: True
+singlevc_model_path: "Any2Any/model/checkpoint-3000.pt"
+
+################# train config ###########################
+figure_mel_label_dir: "Any2Any/pre_feature/spk_emb_mel_label.pkl"
+test_wav_dir: "VCTK-Corpus/wav22050/"
+out_dir: "Any2Any/output/"
+
+resume: False
+resume_path: "Any2Any/model/checkpoint-3900.pt"
+
+batch_size: 4
+epochs: 4000
+save_period: 20
+eval_period: 20
+weight_decay: 0.00015
+step_record_time: 64
+
+
+######################################  lr ######################
+learning_rate: 0.00001
+adam_b1: 0.8
+adam_b2: 0.99
+lr_decay: 0.995
+
+########################################## mel feature ##########################
+num_mels: 80
+num_freq: 1025
+n_fft: 1024
+hop_size: 256
+win_size: 1024
+sampling_rate: 22050
+fmin: 0
+fmax: 8000
+num_workers: 1
+
+
