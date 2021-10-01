@@ -12,52 +12,52 @@ This page provides converted speech samples.
    <tr>
       <td>Source</td>
       <td>Target</td>
-      <td>MediumVC</td>
+<!--       <td>MediumVC</td>
       <td>MwuS</td>
       <td>MwoS</td>
       <td>FragmentVC</td>
       <td>AutoVC</td>
-      <td>Ada-In VC</td>
+      <td>Ada-In VC</td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="converted_samples/VCTK/V1/1_src_fp240_016.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="converted_samples/VCTK/V1/1_tar_fp231_018.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="converted_samples/VCTK/V1/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="converted_samples/VCTK/V1/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="converted_samples/VCTK/V1/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="converted_samples/VCTK/V1/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="converted_samples/VCTK/V1/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="converted_samples/VCTK/V1/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="converted_samples/VCTK/V1/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="converted_samples/VCTK/V1/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_s" src="converted_samples/VCTK/V8/8_src_fp231_004.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_t" src="converted_samples/VCTK/V8/8_tar_mp275_004.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V8_A" src="converted_samples/VCTK/V8/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="V8_A" src="converted_samples/VCTK/V8/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_B" src="converted_samples/VCTK/V8/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_C" src="converted_samples/VCTK/V8/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_D" src="converted_samples/VCTK/V8/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_E" src="converted_samples/VCTK/V8/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V8_F" src="converted_samples/VCTK/V8/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_F" src="converted_samples/VCTK/V8/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_s" src="converted_samples/VCTK/V14/14_src_mp275_019.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_t" src="converted_samples/VCTK/V14/14_tar_fp231_006.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V14_A" src="converted_samples/VCTK/V14/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="V14_A" src="converted_samples/VCTK/V14/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_B" src="converted_samples/VCTK/V14/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_C" src="converted_samples/VCTK/V14/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_D" src="converted_samples/VCTK/V14/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V14_E" src="converted_samples/VCTK/V14/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V14_F" src="converted_samples/VCTK/V14/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_F" src="converted_samples/VCTK/V14/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_s" src="converted_samples/VCTK/V19/19_src_mp275_020.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_t" src="converted_samples/VCTK/V19/19_tar_mp226_009.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V19_A" src="converted_samples/VCTK/V19/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="V19_A" src="converted_samples/VCTK/V19/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_B" src="converted_samples/VCTK/V19/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_C" src="converted_samples/VCTK/V19/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_D" src="converted_samples/VCTK/V19/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V19_E" src="converted_samples/VCTK/V19/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V19_F" src="converted_samples/VCTK/V19/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_F" src="converted_samples/VCTK/V19/F_AdaIN-VC.wav"></td> -->
    </tr>
 </table>
 
@@ -71,52 +71,52 @@ This page provides converted speech samples.
    <tr>
       <td>Source</td>
       <td>Target</td>
-      <td>MediumVC</td>
+<!--       <td>MediumVC</td>
       <td>MwuS</td>
       <td>MwoS</td>
       <td>FragmentVC</td>
       <td>AutoVC</td>
-      <td>Ada-In VC</td>
+      <td>Ada-In VC</td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_s" src="converted_samples/LibriSpeech/L2/2_src_f1093_132891_000015_000000.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_t" src="converted_samples/LibriSpeech/L2/2_tar_f1060_134451_000005_000002.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L2_A" src="converted_samples/LibriSpeech/L2/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="L2_A" src="converted_samples/LibriSpeech/L2/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_B" src="converted_samples/LibriSpeech/L2/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_C" src="converted_samples/LibriSpeech/L2/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_D" src="converted_samples/LibriSpeech/L2/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_E" src="converted_samples/LibriSpeech/L2/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L2_F" src="converted_samples/LibriSpeech/L2/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_F" src="converted_samples/LibriSpeech/L2/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_s"  src="converted_samples/LibriSpeech/L3/3_src_f1060_134451_000011_000002.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_t" src="converted_samples/LibriSpeech/L3/3_tar_m1025_92814_000029_000002.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L3_A" src="converted_samples/LibriSpeech/L3/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="L3_A" src="converted_samples/LibriSpeech/L3/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_B" src="converted_samples/LibriSpeech/L3/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_C" src="converted_samples/LibriSpeech/L3/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_D" src="converted_samples/LibriSpeech/L3/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L3_E" src="converted_samples/LibriSpeech/L3/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L3_F" src="converted_samples/LibriSpeech/L3/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_F" src="converted_samples/LibriSpeech/L3/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_s"  src="converted_samples/LibriSpeech/L8/8_src_m1365_134830_000055_000001.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_t" src="converted_samples/LibriSpeech/L8/8_tar_f1060_134451_000017_000006.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L8_A" src="converted_samples/LibriSpeech/L8/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="L8_A" src="converted_samples/LibriSpeech/L8/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_B" src="converted_samples/LibriSpeech/L8/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_C" src="converted_samples/LibriSpeech/L8/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_D" src="converted_samples/LibriSpeech/L8/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L8_E" src="converted_samples/LibriSpeech/L8/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L8_F" src="converted_samples/LibriSpeech/L8/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_F" src="converted_samples/LibriSpeech/L8/F_AdaIN-VC.wav"></td> -->
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_s"  src="converted_samples/LibriSpeech/L11/11_src_m1365_134830_000029_000001.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_t" src="converted_samples/LibriSpeech/L11/11_tar_m1313_135020_000031_000000.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L11_A" src="converted_samples/LibriSpeech/L11/A_MediumVC.wav"></td>
+<!--       <td><audio id="audio" controls="" preload="none"> <source id="L11_A" src="converted_samples/LibriSpeech/L11/A_MediumVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_B" src="converted_samples/LibriSpeech/L11/B_M_WU_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_C" src="converted_samples/LibriSpeech/L11/C_M_WO_S.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_D" src="converted_samples/LibriSpeech/L11/D_FragmentVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="L11_E" src="converted_samples/LibriSpeech/L11/E_AutoVC.wav"></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="L11_F" src="converted_samples/LibriSpeech/L11/F_AdaIN-VC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_F" src="converted_samples/LibriSpeech/L11/F_AdaIN-VC.wav"></td> -->
    </tr>
 </table>
 
