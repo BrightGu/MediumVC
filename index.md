@@ -2,25 +2,6 @@
 
 <table>
    <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-   </tr>
-   <tr>
-      <td>p249_004</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="SA1_s" src="converted_sample/p249_sample/p249_004.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>p249_155</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="SA2_s" src="converted_sample/p249_sample/p249_155.wav"> </audio></td>
-    </tr>
-   <tr>
-      <td>p249_316</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="SA1_s" src="converted_sample/p249_sample/p249_316.wav"> </audio></td>
-   </tr>
-</table>
-
-<table>
-   <tr>
       <td>Source1</td>
       <td>Source</td>
       <td>Target</td>
@@ -76,6 +57,27 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V19_F" src="converted_samples/VCTK/V19/F_AdaIN-VC.wav"></td>
    </tr>
 </table>
+
+<table>
+   <tr>
+      <td>Utterance</td>
+      <td>Source</td>
+   </tr>
+   <tr>
+      <td>p249_004</td>
+      <td><audio id="audio" controls="" preload="none"> <source id="SA1_s" src="converted_sample/p249_sample/p249_004.wav"> </audio></td>
+   </tr>
+   <tr>
+      <td>p249_155</td>
+      <td><audio id="audio" controls="" preload="none"> <source id="SA2_s" src="converted_sample/p249_sample/p249_155.wav"> </audio></td>
+    </tr>
+   <tr>
+      <td>p249_316</td>
+      <td><audio id="audio" controls="" preload="none"> <source id="SA1_s" src="converted_sample/p249_sample/p249_316.wav"> </audio></td>
+   </tr>
+</table>
+
+
 
 <table>
    <tr>
