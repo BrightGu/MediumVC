@@ -1,6 +1,4 @@
-## MediumVC: Any2-to-any voice conversion using specific-speaker speeches as intermedium features
-
-SingleVC performs A2O VC through a self-supervised task((X<sub>i</sub>  →X̂<sup>s</sup><sub>i</sub> → X̂<sub>i</sub>  )).  X̂<sup>s</sup><sub>i</sub> is  a PSDR-processed speech with pitch-shifted s. The more details can be access here.
+## MediumVC: Any2-to-any voice conversion
 
 We propose MediumVC, an utterance-level method towards A2A. Before that, we propose [SingleVC](https://github.com/BrightGu/SingleVC) to perform A2O tasks(X<sub>i</sub> → Ŷ<sub>i</sub>) , X<sub>i</sub> means utterance i spoken by X). The Ŷ<sub>i</sub> are considered as SSIF. To build SingleVC, we employ a novel data augment strategy: pitch-shifted and duration-remained(PSDR) to produce paired asymmetrical training data. Then, based on pre-trained SingleVC, MediumVC performs an asymmetrical reconstruction task(Ŷ<sub>i</sub> → X̂<sub>i</sub>). Due to the asymmetrical reconstruction mode, MediumVC achieves more efficient feature decoupling and fusion. Experiments demonstrate MediumVC performs strong robustness for unseen speakers across multiple public datasets.
 
