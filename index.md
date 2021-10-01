@@ -71,8 +71,6 @@ This page provides converted speech samples.
    </tr>
 </table>
 
-
-
 ### LibriSpeech
 1. F2F, A voice on the beach under the cliff began to sing.
 2. F2M, The two started to walk back along the road toward town.
