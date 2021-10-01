@@ -4,7 +4,7 @@ We propose MediumVC, an utterance-level method towards A2A. Before that, we prop
 
 This page provides converted speech samples. 
 
-### VCTK
+### VCTKs
 1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
 2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
 3. M2F, Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
@@ -63,7 +63,7 @@ This page provides converted speech samples.
    </tr>
 </table>
 
-### LibriSpeech
+### LibriSpeechs
 1. F2F, A voice on the beach under the cliff began to sing.
 2. F2M, The two started to walk back along the road toward town.
 3. M2F, This was impregnable, and admitted of neither objection nor restriction.
@@ -122,7 +122,7 @@ This page provides converted speech samples.
    </tr>
 </table>
 
-### VCC2020
+### VCC2020s
 1. F2F, Moroccan agriculture enjoys special treatment when exporting to Europe.
 2. F2M, How does the thing cut the true wall?
 3. M2F, Small investors will also be affected, traders said.
