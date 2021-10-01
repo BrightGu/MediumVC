@@ -13,10 +13,10 @@ We propose MediumVC, an utterance-level method towards A2A. Before that, we prop
 This page provides converted speech samples. 
 
 ### VCTK
-1. F1, Ask her to bring these things with her from the store.
-2. F2, She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
-3. M1, Please call Stella.
-4. M2, He should have asked for a second opinion.
+1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
+3. M2F, Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+4. M2M, Many complicated ideas about the rainbow have been formed.
 
 <table>
    <tr>
@@ -39,68 +39,96 @@ This page provides converted speech samples.
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="converted_samples/VCTK/V1/E_AutoVC.wav"></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="converted_samples/VCTK/V1/F_AdaIN-VC.wav"></td>
    </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_s" src="converted_samples/VCTK/V8/8_src_fp231_004.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_t" src="converted_samples/VCTK/V8/8_tar_mp275_004.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_A" src="converted_samples/VCTK/V8/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_B" src="converted_samples/VCTK/V8/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_C" src="converted_samples/VCTK/V8/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_D" src="converted_samples/VCTK/V8/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_E" src="converted_samples/VCTK/V8/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V8_F" src="converted_samples/VCTK/V8/F_AdaIN-VC.wav"></td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_s" src="converted_samples/VCTK/V14/14_src_mp275_019.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_t" src="converted_samples/VCTK/V14/14_tar_fp231_006.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_A" src="converted_samples/VCTK/V14/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_B" src="converted_samples/VCTK/V14/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_C" src="converted_samples/VCTK/V14/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_D" src="converted_samples/VCTK/V14/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_E" src="converted_samples/VCTK/V14/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V14_F" src="converted_samples/VCTK/V14/F_AdaIN-VC.wav"></td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_s" src="converted_samples/VCTK/V19/19_src_mp275_020.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_t" src="converted_samples/VCTK/V19/19_tar_mp226_009.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_A" src="converted_samples/VCTK/V19/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_B" src="converted_samples/VCTK/V19/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_C" src="converted_samples/VCTK/V19/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_D" src="converted_samples/VCTK/V19/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_E" src="converted_samples/VCTK/V19/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V19_F" src="converted_samples/VCTK/V19/F_AdaIN-VC.wav"></td>
+   </tr>
 </table>
 
-<table>
-   <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-      <td>Convert</td>
-   </tr>
-   <tr>
-      <td>F1_p310_002</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VF1_s" src="converted_sample/VCTK/F1/1_p310_002.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VF1_t" src="converted_sample/VCTK/F1/1_p310_002_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>F2_p240_005</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VF2_s" src="converted_sample/VCTK/F2/1_p240_005.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VF2_t" src="converted_sample/VCTK/F2/1_p240_005_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>M1_p374_001</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VM1_s" src="converted_sample/VCTK/M1/1_p374_001.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VM1_t" src="converted_sample/VCTK/M1/1_p374_001_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>M2_p245_062</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VM2_s" src="converted_sample/VCTK/M2/4_p245_062.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="VM2_t" src="converted_sample/VCTK/M2/4_p245_062_generated_e2e.wav"> </audio></td>
-   </tr>
-</table>
 
 
 ### LibriSpeech
-1. F1, The visit went off successfully, as was to have been expected.
-2. F2, "He's Gilbert Blythe," said Marilla contentedly.
-3. M1, All judgements do not require examination, that is, investigation into the grounds of their truth.
-4. M2, And always that same pretext is offered--it looks like the thing.
+1. F2F, A voice on the beach under the cliff began to sing.
+2. F2M, The two started to walk back along the road toward town.
+3. M2F, This was impregnable, and admitted of neither objection nor restriction.
+4. M2M, From a cupboard he pulled out one of his old shirts, which he tore in pieces.
 
 <table>
    <tr>
-      <td>Utterance</td>
       <td>Source</td>
-      <td>Convert</td>
+      <td>Target</td>
+      <td>MediumVC</td>
+      <td>MwuS</td>
+      <td>MwoS</td>
+      <td>FragmentVC</td>
+      <td>AutoVC</td>
+      <td>Ada-In VC</td>
    </tr>
    <tr>
-      <td>F1_225_131256_000006_000002</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LF1_s" src="converted_sample/LibriSpeech/F1/2_225_131256_000006_000002.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LF1_t" src="converted_sample/LibriSpeech/F1/2_225_131256_000006_000002_generated_e2e.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_s" src="converted_samples/LibriSpeech/L2/2_src_f1093_132891_000015_000000.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_t" src="converted_samples/LibriSpeech/L2/2_tar_f1060_134451_000005_000002.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_A" src="converted_samples/LibriSpeech/L2/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_B" src="converted_samples/LibriSpeech/L2/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_C" src="converted_samples/LibriSpeech/L2/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_D" src="converted_samples/LibriSpeech/L2/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_E" src="converted_samples/LibriSpeech/L2/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L2_F" src="converted_samples/LibriSpeech/L2/F_AdaIN-VC.wav"></td>
    </tr>
    <tr>
-      <td>F2_188_135249_000012_000000</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LF2_s" src="converted_sample/LibriSpeech/F2/4_188_135249_000012_000000.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LF2_t" src="converted_sample/LibriSpeech/F2/4_188_135249_000012_000000_generated_e2e.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_s"  src="converted_samples/LibriSpeech/L3/3_src_f1060_134451_000011_000002.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_t" src="converted_samples/LibriSpeech/L3/3_tar_m1025_92814_000029_000002.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_A" src="converted_samples/LibriSpeech/L3/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_B" src="converted_samples/LibriSpeech/L3/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_C" src="converted_samples/LibriSpeech/L3/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_D" src="converted_samples/LibriSpeech/L3/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_E" src="converted_samples/LibriSpeech/L3/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L3_F" src="converted_samples/LibriSpeech/L3/F_AdaIN-VC.wav"></td>
    </tr>
    <tr>
-      <td>M1_296_129659_000004_000005</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LM1_s" src="converted_sample/LibriSpeech/M1/1_296_129659_000004_000005.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LM1_t" src="converted_sample/LibriSpeech/M1/1_296_129659_000004_000005_generated_e2e.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_s"  src="converted_samples/LibriSpeech/L8/8_src_m1365_134830_000055_000001.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_t" src="converted_samples/LibriSpeech/L8/8_tar_f1060_134451_000017_000006.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_A" src="converted_samples/LibriSpeech/L8/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_B" src="converted_samples/LibriSpeech/L8/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_C" src="converted_samples/LibriSpeech/L8/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_D" src="converted_samples/LibriSpeech/L8/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_E" src="converted_samples/LibriSpeech/L8/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L8_F" src="converted_samples/LibriSpeech/L8/F_AdaIN-VC.wav"></td>
    </tr>
    <tr>
-      <td>M2_272_130225_000010_000007</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LM2_s" src="converted_sample/LibriSpeech/M2/3_272_130225_000010_000007.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="LM2_t" src="converted_sample/LibriSpeech/M2/3_272_130225_000010_000007_generated_e2e.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_s"  src="converted_samples/LibriSpeech/L11/11_src_m1365_134830_000029_000001.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_t" src="converted_samples/LibriSpeech/L11/11_tar_m1313_135020_000031_000000.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_A" src="converted_samples/LibriSpeech/L11/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_B" src="converted_samples/LibriSpeech/L11/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_C" src="converted_samples/LibriSpeech/L11/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_D" src="converted_samples/LibriSpeech/L11/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_E" src="converted_samples/LibriSpeech/L11/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="L11_F" src="converted_samples/LibriSpeech/L11/F_AdaIN-VC.wav"></td>
    </tr>
 </table>
 
@@ -110,98 +138,4 @@ This page provides converted speech samples.
 3. M1, The trip was a disaster.
 4. M2, Sometimes, it helps to take a step back.
 
-<table>
-   <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-      <td>Convert</td>
-   </tr>
-   <tr>
-      <td>F1_TEF1_E10061</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CF1_s" src="converted_sample/VCC2020/F1/1_TEF1_E10061.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CF1_t" src="converted_sample/VCC2020/F1/1_TEF1_E10061_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>F2_SEF2_E10066</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CF2_s" src="converted_sample/VCC2020/F2/5_SEF2_E10066.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CF2_t" src="converted_sample/VCC2020/F2/5_SEF2_E10066_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>M1_SEM1_E10033</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CM1_s" src="converted_sample/VCC2020/M1/3_SEM1_E10033.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CM1_t" src="converted_sample/VCC2020/M1/3_SEM1_E10033_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>M2_TEM2_E20042</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CM2_s" src="converted_sample/VCC2020/M2/1_TEM2_E20042.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="CM2_t" src="converted_sample/VCC2020/M2/1_TEM2_E20042_generated_e2e.wav"> </audio></td>
-   </tr>
-</table>
 
-### LJSpeech
-1. F1, especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
-2. F2, fourteen sixty-nine, fourteen seventy.
-
-<table>
-   <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-      <td>Convert</td>
-   </tr>
-   <tr>
-      <td>F1_LJ001-0012</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="JF1_s" src="converted_sample/LJSpeech/F1/1_LJ001-0012.wav"> </audio> </td>
-      <td><audio id="audio" controls="" preload="none"> <source id="JF1_t" src="converted_sample/LJSpeech/F1/1_LJ001-0012_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>F2_LJ001-0045</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="JF2_s" src="converted_sample/LJSpeech/F2/3_LJ001-0045.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="JF2_t" src="converted_sample/LJSpeech/F2/3_LJ001-0045_generated_e2e.wav"> </audio></td>
-   </tr>
-</table>
-
-### AISHELL
-1. F1, 购房节奏暂时性放缓.
-2. M2, 目前房地产整体形势不是特别景气.
-
-
-<table>
-   <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-      <td>Convert</td>
-   </tr>
-   <tr>
-      <td>F1_BAC009S0234W0141</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="AF1_s" src="converted_sample/AISHELL/F1/3_BAC009S0234W0141.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="AF1_t" src="converted_sample/AISHELL/F1/3_BAC009S0234W0141_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>F2_BAC009S0091W0160</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="AM1_s" src="converted_sample/AISHELL/M1/5_BAC009S0091W0160.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="AM1_t" src="converted_sample/AISHELL/M1/5_BAC009S0091W0160_generated_e2e.wav"> </audio></td>
-   </tr>
-</table>
-
-
-### Wild
-1. M1, 我国发展仍然处于重要战略机遇期，但
-2. M2, food_and_medical_supplies.
-
-<table>
-   <tr>
-      <td>Utterance</td>
-      <td>Source</td>
-      <td>Convert</td>
-   </tr>
-   <tr>
-      <td>F1_kh_42_2</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="WM1_s" src="converted_sample/Wild/M1/1_kh_42_2.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="WM1_t" src="converted_sample/Wild/M1/1_kh_42_2_generated_e2e.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td>F2_SEF2_E10066</td>
-      <td><audio id="audio" controls="" preload="none"> <source id="WM2_s" src="converted_sample/Wild/M2/3_trumps.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="WM2_t" src="converted_sample/Wild/M2/3_trumps_generated_e2e.wav"> </audio></td>
-   </tr>
-</table>
