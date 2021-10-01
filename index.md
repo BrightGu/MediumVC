@@ -1,15 +1,4 @@
-### MediumVC: Any2-to-any voice conversion
-We propose MediumVC, an utterance-level method towards A2A. Before that, we propose [SingleVC](https://github.com/BrightGu/SingleVC) to perform A2O tasks(X<sub>i</sub> → Ŷ<sub>i</sub>) , X<sub>i</sub> means utterance i spoken by X). The Ŷ<sub>i</sub> are considered as SSIF. To build SingleVC, we employ a novel data augment strategy: pitch-shifted and duration-remained(PSDR) to produce paired asymmetrical training data. Then, based on pre-trained SingleVC, MediumVC performs an asymmetrical reconstruction task(Ŷ<sub>i</sub> → X̂<sub>i</sub>). Due to the asymmetrical reconstruction mode, MediumVC achieves more efficient feature decoupling and fusion. Experiments demonstrate MediumVC performs strong robustness for unseen speakers across multiple public datasets.
-
-This page provides converted speech samples. 
-
-#### VCTK
-#### VCTK
-1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
-2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
-3. M2F, Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
-4. M2M, Many complicated ideas about the rainbow have been formed.
-5. #### VCTK
+### hello 
 <table>
    <tr>
       <td>Source</td>
@@ -64,15 +53,6 @@ This page provides converted speech samples.
    
 </table>
 
-#### VCTK
-
-
-#### LibriSpeech
-1. F2F, A voice on the beach under the cliff began to sing.
-2. F2M, The two started to walk back along the road toward town.
-3. M2F, This was impregnable, and admitted of neither objection nor restriction.
-4. M2M, From a cupboard he pulled out one of his old shirts, which he tore in pieces.
-
 <table>
    <tr>
       <td>Source</td>
@@ -126,11 +106,7 @@ This page provides converted speech samples.
    </tr>
 </table>
 
-#### VCC2020
-1. F2F, Moroccan agriculture enjoys special treatment when exporting to Europe.
-2. F2M, How does the thing cut the true wall?
-3. M2F, Small investors will also be affected, traders said.
-4. M2M, Modern electronics has become highly dependent on inorganic chemistry.
+
 <table>
    <tr>
       <td>Source</td>
