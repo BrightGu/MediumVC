@@ -7,7 +7,7 @@ The following are the overall model architecture.
 
 ![Model architecture](Demo/image/mediumvc.png)
 
-For the audio samples, please refer to our [demo page](https).
+For the audio samples, please refer to our [demo page](https://brightgu.github.io/MediumVC/).
 
 ### Envs
 You can install the dependencies with
