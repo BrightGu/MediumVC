@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BrightGu/MediumVC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## MediumVC: Any2-to-any voice conversion using specific-speaker speeches as intermedium features
 
 SingleVC performs A2O VC through a self-supervised task((X<sub>i</sub>  →X̂<sup>s</sup><sub>i</sub> → X̂<sub>i</sub>  )).  X̂<sup>s</sup><sub>i</sub> is  a PSDR-processed speech with pitch-shifted s. The more details can be access here.
