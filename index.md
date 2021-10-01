@@ -133,9 +133,60 @@ This page provides converted speech samples.
 </table>
 
 ### VCC2020
-1. F1, If not, it's about time somebody did.
-2. F2, The figures are adjusted for seasonal variation.
-3. M1, The trip was a disaster.
-4. M2, Sometimes, it helps to take a step back.
+1. F2F, Moroccan agriculture enjoys special treatment when exporting to Europe.
+2. F2M, How does the thing cut the true wall?
+3. M2F, Small investors will also be affected, traders said.
+4. M2M, Modern electronics has become highly dependent on inorganic chemistry.
 
-
+<table>
+   <tr>
+      <td>Source</td>
+      <td>Target</td>
+      <td>MediumVC</td>
+      <td>MwuS</td>
+      <td>MwoS</td>
+      <td>FragmentVC</td>
+      <td>AutoVC</td>
+      <td>Ada-In VC</td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_s" src="converted_samples/VCC/C14/14_src_SEF2_E10051.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_t" src="converted_samples/VCC/C14/14_tar_TEF1_E10054.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_A" src="converted_samples/VCC/C14/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_B" src="converted_samples/VCC/C14/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_C" src="converted_samples/VCC/C14/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_D" src="converted_samples/VCC/C14/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_E" src="converted_samples/VCC/C14/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C14_F" src="converted_samples/VCC/C14/F_AdaIN-VC.wav"></td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_s" src="converted_samples/VCC/C1/1_src_SEF2_E10043.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_t" src="converted_samples/VCC/C1/1_tar_TEM1_E10054.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_A" src="converted_samples/VCC/C1/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_B" src="converted_samples/VCC/C1/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_C" src="converted_samples/VCC/C1/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_D" src="converted_samples/VCC/C1/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_E" src="converted_samples/VCC/C1/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C1_F" src="converted_samples/VCC/C1/F_AdaIN-VC.wav"></td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_s" src="converted_samples/VCC/C6/6_src_SEM1_E10059.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_t" src="converted_samples/VCC/C6/6_tar_SEF1_E10057.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_A" src="converted_samples/VCC/C6/A_MediumVC.wav"></td>
+      <td> <audio id="audio" controls="" preload="none"> <source id="C6_B" src="converted_samples/VCC/C6/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_C" src="converted_samples/VCC/C6/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_D" src="converted_samples/VCC/C6/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_E" src="converted_samples/VCC/C6/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C6_F" src="converted_samples/VCC/C6/F_AdaIN-VC.wav"></td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_s" src="converted_samples/VCC/C13/13_src_SEM1_E10056.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_t" src="converted_samples/VCC/C13/13_tar_TEM2_E20004.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_A" src="converted_samples/VCC/C13/A_MediumVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_B" src="converted_samples/VCC/C13/B_M_WU_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_C" src="converted_samples/VCC/C13/C_M_WO_S.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_D" src="converted_samples/VCC/C13/D_FragmentVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_E" src="converted_samples/VCC/C13/E_AutoVC.wav"></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="C13_F" src="converted_samples/VCC/C13/F_AdaIN-VC.wav"></td>
+   </tr>
+</table>
