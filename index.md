@@ -8,7 +8,7 @@ This page provides converted speech samples.
 2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
 3. M2F, Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
 4. M2M, Many complicated ideas about the rainbow have been formed.
-5. #### VCTK
+
 <table>
    <tr>
       <td>Source</td>
@@ -18,7 +18,7 @@ This page provides converted speech samples.
       <td>MwoS</td>
       <td>FragmentVC</td>
       <td>AutoVC</td>
-      <td>Ada-In VC</td>
+      <td>AdaIn-VC</td>
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="converted_samples/VCTK/V1/1_src_fp240_016.wav"> </audio></td>
@@ -78,7 +78,7 @@ This page provides converted speech samples.
       <td>MwoS</td>
       <td>FragmentVC</td>
       <td>AutoVC</td>
-      <td>Ada-In VC</td>
+      <td>AdaIn-VC</td>
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="L2_s" src="converted_samples/LibriSpeech/L2/2_src_f1093_132891_000015_000000.wav"> </audio></td>
@@ -136,7 +136,7 @@ This page provides converted speech samples.
       <td>MwoS</td>
       <td>FragmentVC</td>
       <td>AutoVC</td>
-      <td>Ada-In VC</td>
+      <td>AdaIn-VC</td>
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="C14_s" src="converted_samples/VCC/C14/14_src_SEF2_E10051.wav"> </audio></td>
