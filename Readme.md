@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ### Speaker Encoder
-[Dvector](https://github.com/yistLin/dvector)  is a robust  speaker verification (SV) system pre-trained on [VoxCeleb1](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)  using GE2E loss, and it  produces 256-dim speaker embedding. In our evaluation on multiple datasets(VCTK with 30000 pairs, Librispeech with 30000 pairs and VCC2020 with 10000 pairs), the equal error rates(EERs)and thresholds(THRs) are recorded in follow Table.
+[Dvector](https://github.com/yistLin/dvector)  is a robust  speaker verification (SV) system pre-trained on [VoxCeleb1](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)  using GE2E loss, and it  produces 256-dim speaker embedding. In our evaluation on multiple datasets(VCTK with 30000 pairs, Librispeech with 30000 pairs and VCC2020 with 10000 pairs), the equal error rates(EERs)and thresholds(THRs) are recorded in Table.
 
 | Dataset | VCTK | LibriSpeech | VCC2020 |
 | :------:| :------: | :------: |:------: |
@@ -38,7 +38,7 @@ The corpus should be organized as "VCTK22050/$figure$/*.wav", and then edit the 
 python Any2Any/pre_feature/figure_spkemb_mel.py
 ```
 #### Training
-Please edit the paths of pretrained  hifi-model,wav2mel,dvector,SingleVC in config file "Any2Any/config.yaml" as first.
+Please edit the paths of pretrained  hifi-model,wav2mel,dvector,SingleVC in config file "Any2Any/config.yaml" at first.
 ```bash
 python Any2Any/solver.py
 ```
