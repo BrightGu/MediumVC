@@ -1,5 +1,5 @@
 # MediumVC
-
+MediumVC is an utterance-level method towards any-to-any VC.
 Here is the official implementation of the paper, [MediumVC](http://arxiv.org/abs/2110.02500).
 
 
