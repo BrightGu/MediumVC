@@ -1,6 +1,6 @@
 # MediumVC
 
-Here is the official implementation of the paper, [MediumVC](https).
+Here is the official implementation of the paper, [MediumVC](http://arxiv.org/abs/2110.02500).
 
 
 The following are the overall model architecture.
