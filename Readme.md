@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 ### Speaker Encoder
-[Dvector](https://github.com/yistLin/dvector)  is a robust  speaker verification (SV) system pre-trained on [VoxCeleb1](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)  using GE2E loss, and it  produces 256-dim speaker embedding. In our evaluation on multiple datasets(VCTK with 30000 pairs, Librispeech with 30000 pairs and VCC2020 with 10000 pairs), the equal error rates(EERs)and thresholds(THRs) are recorded in Table.
+[Dvector](https://github.com/yistLin/dvector)  is a robust  speaker verification (SV) system pre-trained on [VoxCeleb1](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)  using GE2E loss, and it  produces 256-dim speaker embedding. In our evaluation on multiple datasets(VCTK with 30000 pairs, Librispeech with 30000 pairs and VCC2020 with 10000 pairs), the equal error rates(EERs)and thresholds(THRs) are recorded in Table. Then Dvector with THRs is also employed to calculate SV accuracy(ACC) of pairs produced by MediumVC and other contrast methods for objective evaluation. The more details can access [paper](http://arxiv.org/abs/2110.02500).
 
 | Dataset | VCTK | LibriSpeech | VCC2020 |
 | :------:| :------: | :------: |:------: |
