@@ -1,7 +1,7 @@
 ### MediumVC: Any2-to-any voice conversion
 We propose MediumVC, an utterance-level method towards A2A. Before that, we propose [SingleVC](https://github.com/BrightGu/SingleVC) to perform A2O tasks(X<sub>i</sub> → Ŷ<sub>i</sub>) , X<sub>i</sub> means utterance i spoken by X). The Ŷ<sub>i</sub> are considered as SSIF. To build SingleVC, we employ a novel data augment strategy: pitch-shifted and duration-remained(PSDR) to produce paired asymmetrical training data. Then, based on pre-trained SingleVC, MediumVC performs an asymmetrical reconstruction task(Ŷ<sub>i</sub> → X̂<sub>i</sub>). Due to the asymmetrical reconstruction mode, MediumVC achieves more efficient feature decoupling and fusion. Experiments demonstrate MediumVC performs strong robustness for unseen speakers across multiple public datasets. The more details can access [paper](https://arxiv.org/abs/2110.02500).
 
-This page provides converted speech samples. contrast methods include MwuS (MediumVC with untrained SingleVC), MwoS (MediumVC without SingleVC), [FragmentVC](https://github.com/yistLin/FragmentVC),[AutoVC](https://github.com/auspicious3000/autovc) and [AdaIn-VC](https://github.com/jjery2243542/adaptive_voice_conversion). 
+This page provides converted speech samples. Contrast methods include MwuS (MediumVC with untrained SingleVC), MwoS (MediumVC without SingleVC), [FragmentVC](https://github.com/yistLin/FragmentVC),[AutoVC](https://github.com/auspicious3000/autovc) and [AdaIn-VC](https://github.com/jjery2243542/adaptive_voice_conversion). 
 
 #### VCTK
 1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
